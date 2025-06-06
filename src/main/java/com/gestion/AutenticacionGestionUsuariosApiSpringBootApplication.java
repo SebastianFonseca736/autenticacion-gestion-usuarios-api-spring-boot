@@ -1,4 +1,4 @@
-package com.example.autenticacion_gestion_usuarios_api_spring_boot;
+package com.gestion;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
